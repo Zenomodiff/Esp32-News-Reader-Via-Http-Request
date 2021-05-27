@@ -1,3 +1,10 @@
+/*feel free to contact
+ * sreeramaj53@gmail.com
+ * www.youtube.com/ZenoModiff
+ * last updated - time 12:06 AM - date 28 may 2021
+ Github Link :-- https://github.com/Zenomodiff/Esp32-News-Reader-Via-Http-Request
+ */
+
 #include <ArduinoJson.h>
 #include <WiFi.h>
 #include <HTTPClient.h>
